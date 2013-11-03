@@ -2,7 +2,7 @@
 
 **AUTHOR:** Giuseppe Sanfrancesco
 
-**VERSION:** 0.s
+**VERSION:** 0.3
 
 **DESCRIPTION:** A simple Python script to create an HTML page!
 
